@@ -11,3 +11,5 @@ This repository contains a simple interest calculator that calculates simple int
 
 ### Output:
 - `simple interest = p * t * r`
+
+2023 XYZ, Inc.
